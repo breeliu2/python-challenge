@@ -47,3 +47,4 @@ Winner: Diana DeGette
 --------------------
 
 
+Note: A classmate (Michael Schell) assisted me with parts of my Pybank code.

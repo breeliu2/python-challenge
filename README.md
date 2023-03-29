@@ -16,13 +16,13 @@ The main.py script analyzes the financial records of a company. Using a set of f
       -The greatest decrease in profits (date and amount) over the entire period 
       
 Here are the results: 
-Financial Analysis
+<!-- Financial Analysis
 ----------------
 Profit: $22564198
 Total Months: 86
 Average P/L: $-8311.11
 Greatest Increase in Profits: $Jul-16, 1862002
-Greatest Increase in Profits: $Jan-14, -1825558
+Greatest Increase in Profits: $Jan-14, -1825558 -->
 
 
 

@@ -19,9 +19,13 @@ Here are the results:
 Financial Analysis
 ----------------
 Profit: $22564198
+
 Total Months: 86
+
 Average P/L: $-8311.11
+
 Greatest Increase in Profits: $Jul-16, 1862002
+
 Greatest Increase in Profits: $Jan-14, -1825558
 
 

@@ -16,14 +16,14 @@ The main.py script analyzes the financial records of a company. Using a set of f
       -The greatest decrease in profits (date and amount) over the entire period 
       
   Here are the results: 
-  Financial Analysis
+  `Financial Analysis
   ----------------
   Profit: $22564198
   Total Months: 86
   Average P/L: $-8311.11
   Greatest Increase in Profits: $Jul-16, 1862002
   Greatest Increase in Profits: $Jan-14, -1825558
-
+`
 
 
 # PyPoll 
@@ -35,7 +35,7 @@ The pypoll.py script was used to help a small town with their vote counting proc
       -The winner of the election based on popular vote
       
 Here are the Election Results: 
-Election Results
+`Election Results
 --------------------
 Total votes: 369711
 --------------------
@@ -44,7 +44,7 @@ Diana DeGette: 73.812% (272892)
 Raymon Anthony Doane: 3.139% (11606)
 --------------------
 Winner: Diana DeGette
---------------------
+--------------------`
 
 
 Note: A classmate (Michael Schell) assisted me with parts of my Pybank code.

@@ -7,7 +7,7 @@ The repository contains separate files for Pybank and Pypoll. Inside each folder
   
   
  
-PyBank Challenge
+PyBank
 The main.py script analyzes the financial records of a company. Using a set of financial data found in budget_data.csv I calculated the    following: 
       -The total number of months included in the dataset
       -The net total amount of "Profit/Losses" over the entire period

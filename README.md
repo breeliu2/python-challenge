@@ -7,7 +7,7 @@ The repository contains separate files for Pybank and Pypoll. Inside each folder
   
   
  
-PyBank
+# PyBank
 The main.py script analyzes the financial records of a company. Using a set of financial data found in budget_data.csv I calculated the    following: 
       -The total number of months included in the dataset
       -The net total amount of "Profit/Losses" over the entire period
@@ -26,7 +26,7 @@ The main.py script analyzes the financial records of a company. Using a set of f
 
 
 
-PyPoll 
+# PyPoll 
 The pypoll.py script was used to help a small town with their vote counting process. Using a set of poll data found in election_data.csv, I analyzed the votes and calculated the following: 
       -The total number of votes cast
       -A complete list of candidates who received votes
